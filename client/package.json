@@ -1,0 +1,49 @@
+{
+  "name": "circle-client",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.9.12",
+    "@material-ui/icons": "^4.9.1",
+    "@material-ui/lab": "^4.0.0-alpha.52",
+    "@material-ui/pickers": "3.2.10",
+    "@material-ui/styles": "^4.2.0",
+    "@material-ui/system": "^4.9.14",
+    "classnames": "^2.2.6",
+    "fibers": "^4.0.2",
+    "keymirror": "^0.1.1",
+    "material-table": "1.58.2",
+    "material-ui": "0.20.2",
+    "moment": "^2.29.1",
+    "notistack": "^1.0.3",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "3.4.1",
+    "typescript": "^3.8.3",
+    "uuid": "^8.3.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject"
+  },
+  "proxy": "http://localhost:5000/",
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.9.5"
+  }
+}
