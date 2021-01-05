@@ -1,8 +1,8 @@
-##Payments Data Dashboard
+## Payments Data Dashboard
 ![](paymentsDashboard.png)
 ![](createPaymentsModal.png)
 
-####[Project Instructions/Guidelines](Assignment.md)
+#### [Project Instructions/Guidelines](Assignment.md)
 
 ## Instructions for Running App Locally 
 ### Install Packages
